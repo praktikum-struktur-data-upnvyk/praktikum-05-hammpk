@@ -97,10 +97,10 @@ bool pop(Stack& s, int& nilai) {
 
 // SOAL 3
 void clear(Stack& s) {
-    Node *bantu = s.stop;
+    Node *bantu = s.top;
 
     while(bantu != nullptr){
-        
+
     }
 }
 
